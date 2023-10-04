@@ -2,7 +2,9 @@
 
 ## Email - jcaro@appdev.yearup.org | Mobile - 602-xxx-xxxx
 
-Quick learner, Hard working, Efficient under pressure
+* Quick learner 
+* Hard working 
+* Efficient under pressure
 
 # Experience
 
@@ -20,3 +22,10 @@ Chewy | October 2021 - July 2022
 
 * Drive PIT machines to stow away product
 * Unload pallets and break them down
+
+# Education
+
+## YearUp | September 2023 - Present
+
+* YearUp is a leading one-year career develpment program that includes college-level courses, professional training, and a six-month internship
+* Accrue 200+ hours of hands-on training in writing HTML, CSS and JavaScript using PluralSight
